@@ -22,10 +22,10 @@ Disallow: /includes/
 Disallow: /*?*
 Clean-param: utm_source&utm_medium&utm_campaign
 Clean-param: yclid&ymclid
-Host: https://digitalgoods.pages.dev
+Host: https://digital-goods-omega.vercel.app
 
 # Указываем пути к sitemap (если будете создавать в будущем)
-# Sitemap: https://digitalgoods.pages.dev/sitemap.xml
+# Sitemap: https://digital-goods-omega.vercel.app/sitemap.xml
 
 # Правила для изображений
 User-agent: Googlebot-Image
